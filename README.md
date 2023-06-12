@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/A-n-u-j-P/A-n-u-j-P/blob/main/anuj%20(2).png)
 <h1 align="center">Hi 👋, I'm Anuj Patil Ghare</h1>
-<h3 align="center">A passionate Software Developer from India,Maharashtra</h3>
+<h3 align="center">A passionate Software Developer from Maharashtra,India.</h3>
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
